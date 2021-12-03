@@ -2,8 +2,8 @@
 💻알고리즘 스터디
 
 ## 참여자👥
-- 노누리(Python,Java)
-- 김아현(JavaScript)
+- ㄴㄹ(Python,Java)
+- ㅇㅎ(JavaScript)
 
 ## 진행방식❗️
 - 일주일에 세 문제이상 풀어오기
