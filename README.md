@@ -16,17 +16,26 @@
   
   
 ## 풀이 완료한 문제‼️
-### 21.12.09
-- 로또 최고 순위와 최저 순위
-- 숫자 문자열고 영단어
-- 크레인 인형뽑기 게임
-### 21.12.21
-- 음양 더하기
-- 소수 만들기
-- K번째 수
-- 체육복
-- 실패율(*)
-- 3진법 뒤집기
-- 두 개 뽑아서 더하기
-- 신규 아이디 추천
-- 키패드 누르기(*)
+
+|레벨|날짜|문제이름|ㄴㄹ|ㅇㅎ|
+|----|---|-------|---|---|
+|level1|21/12/09|로또 최고 순위와 최저 순위|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/1%EC%A3%BC/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84/%E3%84%B4%E3%84%B9/lotto_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/1%EC%A3%BC/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84/%E3%85%87%E3%85%8E/lotto.js)|
+|||숫자 문자열과 영단어|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/1%EC%A3%BC/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4/%E3%84%B4%E3%84%B9/eng_num.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/1%EC%A3%BC/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4/%E3%85%87%E3%85%8E/eng_num.js)|
+|||크레인 인형뽑기 게임|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/1%EC%A3%BC/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84/%E3%84%B4%E3%84%B9/crane_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/1%EC%A3%BC/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84/%E3%85%87%E3%85%8E/crane.js)|
+||21/12/21|음양 더하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0/%E3%84%B4%E3%84%B9/absolutes_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/absolutes.js)|
+|||소수 만들기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0/%E3%84%B4%E3%84%B9/prime_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0/%E3%85%87%E3%85%8E/makePrime.js)|
+|||K번째 수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/K%EB%B2%88%EC%A7%B8%20%EC%88%98/%E3%84%B4%E3%84%B9/knum_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/K%EB%B2%88%EC%A7%B8%20%EC%88%98/%E3%85%87%E3%85%8E/kstNum.js)|
+|||체육복|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%B2%B4%EC%9C%A1%EB%B3%B5/%E3%84%B4%E3%84%B9/gymsuit_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%B2%B4%EC%9C%A1%EB%B3%B5/%E3%85%87%E3%85%8E/gymSuit.js)|
+|||실패율|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%8B%A4%ED%8C%A8%EC%9C%A8/%E3%84%B4%E3%84%B9/ratefail_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%8B%A4%ED%8C%A8%EC%9C%A8/%E3%85%87%E3%85%8E/failureRate.js)|
+|||3진법 뒤집기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0/%E3%84%B4%E3%84%B9/ndiv_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0/%E3%85%87%E3%85%8E/ternary.js)|
+|||두 개 뽑아서 더하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0/%E3%84%B4%E3%84%B9/comb_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/get2Num.js)|
+|||신규 아이디 추천|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/%E3%84%B4%E3%84%B9/newid_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/%E3%85%87%E3%85%8E/newId.js)|
+|||키패드 누르기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0/%E3%84%B4%E3%84%B9/keypad_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/2%EC%A3%BC/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0/%E3%85%87%E3%85%8E/pressKeypad.js)|
+||22/1/4|없는 숫자 더하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0/%E3%84%B4%E3%84%B9/add_num_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/add_num.js)|
+|||내적|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EB%82%B4%EC%A0%81/%E3%84%B4%E3%84%B9/product_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EB%82%B4%EC%A0%81/%E3%85%87%E3%85%8E/product.js)|
+|||완주하지 못한 선수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98/%E3%84%B4%E3%84%B9/marathon_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98/%E3%85%87%E3%85%8E/marathon.js)|
+|||모의고사|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/%E3%84%B4%E3%84%B9/test_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/%E3%85%87%E3%85%8E/test.js)|
+|||폰켓몬|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%ED%8F%B0%EC%BC%93%EB%AA%AC/%E3%84%B4%E3%84%B9/pon_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%ED%8F%B0%EC%BC%93%EB%AA%AC/%E3%85%87%E3%85%8E/ponket.js)|
+|||약수의 개수와 덧셈|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88/%E3%84%B4%E3%84%B9/divisor_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88/%E3%85%87%E3%85%8E/divisor.js)|
+|||예산|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%98%88%EC%82%B0/%E3%84%B4%E3%84%B9/budget_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%98%88%EC%82%B0/%E3%85%87%E3%85%8E/budget.js)|
+|||2016년|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/2016%EB%85%84/%E3%84%B4%E3%84%B9/2016_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/2016%EB%85%84/%E3%85%87%E3%85%8E/2016.js)|
