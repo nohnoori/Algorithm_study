@@ -49,7 +49,7 @@
 |||소수찾기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%84%B4%E3%84%B9/primeNum_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%85%87%E3%85%8E/findPrime.js)|
 |||문자열을 정수로 바꾸기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0/%E3%84%B4%E3%84%B9/strtoint_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0/%E3%85%87%E3%85%8E/changeStr.js)|
 |||약수의 합|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9/%E3%84%B4%E3%84%B9/sumprime_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9/%E3%85%87%E3%85%8E/sumDivisor.js)|
-|||나머지가 1이 되는 수 찾기|||
+||NEXT|나머지가 1이 되는 수 찾기|||
 |||\[1차]비밀지도|||
 |||\[1차]다트 게임|||
 |||나누어 떨어지는 숫자 배열|||
@@ -61,7 +61,7 @@
 |||이상한 문자 만들기|||
 |||자릿수 더하기|||
 |||정수 내림차순으로 배치하기|||
-|||제일 작은 수 제거하기|||
+||NEXT|제일 작은 수 제거하기|||
 |||최대공약수와 최소공배수|||
 |||평균 구하기|||
 |||핸드폰 번호 가리기|||
