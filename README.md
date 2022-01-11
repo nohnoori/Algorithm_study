@@ -39,3 +39,37 @@
 |||약수의 개수와 덧셈|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88/%E3%84%B4%E3%84%B9/divisor_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88/%E3%85%87%E3%85%8E/divisor.js)|
 |||예산|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%98%88%EC%82%B0/%E3%84%B4%E3%84%B9/budget_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/%EC%98%88%EC%82%B0/%E3%85%87%E3%85%8E/budget.js)|
 |||2016년|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/2016%EB%85%84/%E3%84%B4%E3%84%B9/2016_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/3%EC%A3%BC/2016%EB%85%84/%E3%85%87%E3%85%8E/2016.js)|
+||22/1/11|최소 직사각형|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/%E3%84%B4%E3%84%B9/min_sq_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/%E3%85%87%E3%85%8E/minSquare.js)|
+|||부족한 금액 구하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/%E3%84%B4%E3%84%B9/needmoney_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/money.js)|
+|||가운데 글자 가져오기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/%E3%84%B4%E3%84%B9/middle_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/%E3%85%87%E3%85%8E/middleStr.js)|
+|||같은 숫자는 싫어|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4/%E3%84%B4%E3%84%B9/diffnum_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4/%E3%85%87%E3%85%8E/i_hate_same_num.js)|
+|||두 정수 사이의 합|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9/%E3%84%B4%E3%84%B9/btwsum_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9/%E3%85%87%E3%85%8E/btwsum.js)|
+|||문자열 내 p와 y의 개수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98/%E3%84%B4%E3%84%B9/pNy_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98/%E3%85%87%E3%85%8E/cntPnY.js)|
+|||문자열 다루기 기본|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8/%E3%84%B4%E3%84%B9/string_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8/%E3%85%87%E3%85%8E/basicStr.js)|
+|||소수찾기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%84%B4%E3%84%B9/primeNum_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%85%87%E3%85%8E/findPrime.js)|
+|||문자열을 정수로 바꾸기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0/%E3%84%B4%E3%84%B9/strtoint_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0/%E3%85%87%E3%85%8E/changeStr.js)|
+|||약수의 합|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9/%E3%84%B4%E3%84%B9/sumprime_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9/%E3%85%87%E3%85%8E/sumDivisor.js)|
+|||나머지가 1이 되는 수 찾기|||
+|||\[1차]비밀지도|||
+|||\[1차]다트 게임|||
+|||나누어 떨어지는 숫자 배열|||
+|||문자열 내 마음대로 정렬하기|||
+|||문자열 내림차순으로 배치하기|||
+|||서울에서 김서방 찾기|||
+|||수박수박수박수박수박수?|||
+|||시저 암호|||
+|||이상한 문자 만들기|||
+|||자릿수 더하기|||
+|||정수 내림차순으로 배치하기|||
+|||제일 작은 수 제거하기|||
+|||최대공약수와 최소공배수|||
+|||평균 구하기|||
+|||핸드폰 번호 가리기|||
+|||x만큼 간격이 있는 n개의 숫자|||
+|||자연수 뒤집어 배열로 만들기|||
+|||정수 제곱근 판별|||
+|||짝수와 홀수|||
+|||콜라츠 추측|||
+|||하샤드 수|||
+|||행렬의 덧셈|||
+|||직사각형 별찍기|||
