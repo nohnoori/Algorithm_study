@@ -49,18 +49,18 @@
 |||소수찾기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%84%B4%E3%84%B9/primeNum_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%85%87%E3%85%8E/findPrime.js)|
 |||문자열을 정수로 바꾸기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0/%E3%84%B4%E3%84%B9/strtoint_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0/%E3%85%87%E3%85%8E/changeStr.js)|
 |||약수의 합|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9/%E3%84%B4%E3%84%B9/sumprime_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/4%EC%A3%BC/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9/%E3%85%87%E3%85%8E/sumDivisor.js)|
-||NEXT|나머지가 1이 되는 수 찾기|||
-|||\[1차]비밀지도|||
-|||\[1차]다트 게임|||
-|||나누어 떨어지는 숫자 배열|||
-|||문자열 내 마음대로 정렬하기|||
-|||문자열 내림차순으로 배치하기|||
-|||서울에서 김서방 찾기|||
-|||수박수박수박수박수박수?|||
-|||시저 암호|||
-|||이상한 문자 만들기|||
-|||자릿수 더하기|||
-|||정수 내림차순으로 배치하기|||
+||NEXT|나머지가 1이 되는 수 찾기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/나머지가%201이%20되는%20수%20찾기/ㄴㄹ/rem1_python.py)||
+|||\[1차]비밀지도|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/%5B1차%5D%20비밀지도/ㄴㄹ/secretmap_python.py)||
+|||\[1차]다트 게임|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/%5B1차%5D%20다트%20게임/ㄴㄹ/dart_python.py)||
+|||나누어 떨어지는 숫자 배열|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/나누어%20떨어지는%20숫자%20배열/ㄴㄹ/divarr_python.py)||
+|||문자열 내 마음대로 정렬하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/문자열%20내%20마음대로%20정렬하기/ㄴㄹ/randomsort_python.py)||
+|||문자열 내림차순으로 배치하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/문자열%20내림차순으로%20배치하기/ㄴㄹ/revsort_python.py)||
+|||서울에서 김서방 찾기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/서울에서%20김서방%20찾기/ㄴㄹ/kiminseoul_python.py)||
+|||수박수박수박수박수박수?|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/수박수박수박수박수박수/ㄴㄹ/melonclap_python.py)||
+|||시저 암호|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/시저%20암호/ㄴㄹ/secretcode_python.py)||
+|||이상한 문자 만들기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/이상한%20문자%20만들기/ㄴㄹ/weirdword_python.py)||
+|||자릿수 더하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/자릿수%20더하기/ㄴㄹ/sumnum_python.py)||
+|||정수 내림차순으로 배치하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/정수%20내림차순으로%20배치하기/ㄴㄹ/sortrev_python.py)||
 ||NEXT|제일 작은 수 제거하기|||
 |||최대공약수와 최소공배수|||
 |||평균 구하기|||
