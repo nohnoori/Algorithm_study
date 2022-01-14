@@ -58,9 +58,9 @@
 |||서울에서 김서방 찾기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/서울에서%20김서방%20찾기/ㄴㄹ/kiminseoul_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0/%E3%85%87%E3%85%8E/kimMan.js)|
 |||수박수박수박수박수박수?|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/수박수박수박수박수박수/ㄴㄹ/melonclap_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98/%E3%85%87%E3%85%8E/watermelon.js)|
 |||시저 암호|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/시저%20암호/ㄴㄹ/secretcode_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8/%E3%85%87%E3%85%8E/passwd.js)|
-|||이상한 문자 만들기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/이상한%20문자%20만들기/ㄴㄹ/weirdword_python.py)||
-|||자릿수 더하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/자릿수%20더하기/ㄴㄹ/sumnum_python.py)||
-|||정수 내림차순으로 배치하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/정수%20내림차순으로%20배치하기/ㄴㄹ/sortrev_python.py)||
+|||이상한 문자 만들기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/이상한%20문자%20만들기/ㄴㄹ/weirdword_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0/%E3%85%87%E3%85%8E/weirdStr.js)|
+|||자릿수 더하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/자릿수%20더하기/ㄴㄹ/sumnum_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/digitSum.js)|
+|||정수 내림차순으로 배치하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/정수%20내림차순으로%20배치하기/ㄴㄹ/sortrev_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/numDesc.js)|
 ||NEXT|제일 작은 수 제거하기|||
 |||최대공약수와 최소공배수|||
 |||평균 구하기|||
