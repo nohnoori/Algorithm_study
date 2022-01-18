@@ -61,8 +61,8 @@
 |||이상한 문자 만들기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/이상한%20문자%20만들기/ㄴㄹ/weirdword_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0/%E3%85%87%E3%85%8E/weirdStr.js)|
 |||자릿수 더하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/자릿수%20더하기/ㄴㄹ/sumnum_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/digitSum.js)|
 |||정수 내림차순으로 배치하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/정수%20내림차순으로%20배치하기/ㄴㄹ/sortrev_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/numDesc.js)|
-||NEXT|제일 작은 수 제거하기|||
-|||최대공약수와 최소공배수|||
+||NEXT|제일 작은 수 제거하기||[✔](https://github.com/mauv2sky/Algorithm_study/blob/main/6%EC%A3%BC/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/removeMinst.js)|
+|||최대공약수와 최소공배수||[✔](https://github.com/mauv2sky/Algorithm_study/blob/main/6%EC%A3%BC/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/%E3%85%87%E3%85%8E/gcd_lcm.js)|
 |||평균 구하기|||
 |||핸드폰 번호 가리기|||
 |||x만큼 간격이 있는 n개의 숫자|||
