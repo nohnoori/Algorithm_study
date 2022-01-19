@@ -63,14 +63,14 @@
 |||정수 내림차순으로 배치하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5주/정수%20내림차순으로%20배치하기/ㄴㄹ/sortrev_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/5%EC%A3%BC/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/numDesc.js)|
 ||NEXT|제일 작은 수 제거하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/제일%20작은%20수%20제거하기/ㄴㄹ/minrem_python.py)|[✔](https://github.com/mauv2sky/Algorithm_study/blob/main/6%EC%A3%BC/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/removeMinst.js)|
 |||최대공약수와 최소공배수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/최대공약수와%20최소공배수/ㄴㄹ/lcmgcd_python.py)|[✔](https://github.com/mauv2sky/Algorithm_study/blob/main/6%EC%A3%BC/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/%E3%85%87%E3%85%8E/gcd_lcm.js)|
-|||평균 구하기||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6%EC%A3%BC/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/getAvg.js)|
-|||핸드폰 번호 가리기||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6%EC%A3%BC/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0/%E3%85%87%E3%85%8E/blind_phone_num.js)|
-|||x만큼 간격이 있는 n개의 숫자|||
-|||자연수 뒤집어 배열로 만들기|||
-|||정수 제곱근 판별|||
-|||짝수와 홀수|||
-|||콜라츠 추측|||
-|||하샤드 수|||
-|||행렬의 덧셈|||
-|||직사각형 별찍기|||
-|||신고 결과 받기|||
+|||평균 구하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/평균%20구하기/ㄴㄹ/avg_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6%EC%A3%BC/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/getAvg.js)|
+|||핸드폰 번호 가리기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/핸드폰%20번호%20가리기/ㄴㄹ/hidephone_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6%EC%A3%BC/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0/%E3%85%87%E3%85%8E/blind_phone_num.js)|
+|||x만큼 간격이 있는 n개의 숫자|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/x만큼%20간격이%20있는%20n개의%20숫자/ㄴㄹ/geometric_python.py)||
+|||자연수 뒤집어 배열로 만들기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/자연수%20뒤집어%20배열로%20만들기/ㄴㄹ/numreverse_python.py)||
+|||정수 제곱근 판별|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/정수%20제곱근%20판별/ㄴㄹ/sqrt_python.py)||
+|||짝수와 홀수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/짝수와%20홀수/ㄴㄹ/oddeven_python.py)||
+|||콜라츠 추측|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/콜라츠%20추측/ㄴㄹ/collatz_python.py)||
+|||하샤드 수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/하샤드%20수/ㄴㄹ/harshad_python.py)||
+|||행렬의 덧셈|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/행렬의%20덧셈/ㄴㄹ/matrixadd_python.py)||
+|||직사각형 별찍기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/직사각형%20별찍기/ㄴㄹ/squarestar_python.py)||
+|||신고 결과 받기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/신고%20결과%20받기/ㄴㄹ/report_python.py)||
