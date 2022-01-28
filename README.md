@@ -74,3 +74,8 @@
 |||행렬의 덧셈|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/행렬의%20덧셈/ㄴㄹ/matrixadd_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6%EC%A3%BC/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88/%E3%85%87%E3%85%8E/matrixSum.js)|
 |||직사각형 별찍기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/직사각형%20별찍기/ㄴㄹ/squarestar_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6%EC%A3%BC/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0/%E3%85%87%E3%85%8E/rectangle_stars.js)|
 |||신고 결과 받기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6주/신고%20결과%20받기/ㄴㄹ/report_python.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/6%EC%A3%BC/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0/%E3%85%87%E3%85%8E/report.js)|
+|level2|2022.1.28|문자열 압축||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/7%EC%A3%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/%E3%85%87%E3%85%8E/str_pressure.js)|
+|||멀쩡한 사각형||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/7%EC%A3%BC/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95/%E3%85%87%E3%85%8E/square.js)|
+|||기능 개발||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/7%EC%A3%BC/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/%E3%85%87%E3%85%8E/dev_func.js)|
+|||짝지어 제거하기||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/7%EC%A3%BC/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/remove_pair.js)|
+|||메뉴 리뉴얼||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/7%EC%A3%BC/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC/%E3%85%87%E3%85%8E/renewal_menu.js)|
