@@ -79,3 +79,7 @@
 |||기능 개발||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/7%EC%A3%BC/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/%E3%85%87%E3%85%8E/dev_func.js)|
 |||짝지어 제거하기||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/7%EC%A3%BC/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/remove_pair.js)|
 |||메뉴 리뉴얼||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/7%EC%A3%BC/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC/%E3%85%87%E3%85%8E/renewal_menu.js)|
+||2022.2.11|\[1차] 뉴스 클러스터링||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81/%E3%85%87%E3%85%8E/news_clustering.js)|
+|||수식 최대화||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94/%E3%85%87%E3%85%8E/maximize.js)|
+|||빛의 경로 사이클||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4/%E3%85%87%E3%85%8E/light_cycle.js)|
+|||가장 큰 수||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/%E3%85%87%E3%85%8E/biggest_num.js)|
