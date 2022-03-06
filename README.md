@@ -83,3 +83,4 @@
 |||수식 최대화|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8주/수식%20최대화/ㄴㄹ/expression.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94/%E3%85%87%E3%85%8E/maximize.js)|
 |||빛의 경로 사이클||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4/%E3%85%87%E3%85%8E/light_cycle.js)|
 |||가장 큰 수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8주/가장%20큰%20수/ㄴㄹ/max_num.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/%E3%85%87%E3%85%8E/biggest_num.js)|
+|||||
