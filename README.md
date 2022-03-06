@@ -84,11 +84,11 @@
 |||빛의 경로 사이클||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4/%E3%85%87%E3%85%8E/light_cycle.js)|
 |||가장 큰 수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8주/가장%20큰%20수/ㄴㄹ/max_num.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/%E3%85%87%E3%85%8E/biggest_num.js)|
 백준|재귀|팩토리얼|||
-||피보나치 5|||
-||별 찍기 -10|||
-||하노이 탑 이동 순서|||
-||트리 순회|||
-|2022.02.14|조이스틱|||
-||오픈 채팅방|||
-||124의 나라의 숫자|||
-||타겟 넘버|||
+|||피보나치 5|||
+|||별 찍기 -10|||
+|||하노이 탑 이동 순서|||
+|||트리 순회|||
+||2022.02.14|조이스틱|||
+|||오픈 채팅방|||
+|||124의 나라의 숫자|||
+|||타겟 넘버|||
