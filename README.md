@@ -93,11 +93,11 @@
 |||튜플|||
 |||프린터|||
 |||소수 찾기|||
-백준|재귀|팩토리얼|||
-|||피보나치 5|||
-|||별 찍기 -10|||
-|||하노이 탑 이동 순서|||
-|||트리 순회|||
+백준|재귀|팩토리얼|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/팩토리얼/ㄴㄹ/factorial.py)||
+|||피보나치 5|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/피보나치%20수%205/ㄴㄹ/fibo.py)||
+|||별 찍기 -10|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/별%20찍기%20-10/ㄴㄹ/start.py)||
+|||하노이 탑 이동 순서|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/하노이%20탑%20이동%20순서/ㄴㄹ/hanoi.py)||
+|||트리 순회|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/트리%20순회/ㄴㄹ/tree.py)||
 ||BFS/DFS|BFS와 DFS|||
 |||바이러스|||
 |||단지 번호 붙이기|||
