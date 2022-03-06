@@ -83,14 +83,14 @@
 |||수식 최대화|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8주/수식%20최대화/ㄴㄹ/expression.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94/%E3%85%87%E3%85%8E/maximize.js)|
 |||빛의 경로 사이클||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4/%E3%85%87%E3%85%8E/light_cycle.js)|
 |||가장 큰 수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8주/가장%20큰%20수/ㄴㄹ/max_num.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/%E3%85%87%E3%85%8E/biggest_num.js)|
-||2022.02.14|조이스틱|||
-|||오픈 채팅방|||
-|||124의 나라의 숫자|||
-|||타겟 넘버|||
-||2022.02.17|거리두기 확인하기|||
-|||괄호 변환|||
-|||행렬 테두리 회전하기|||
-|||튜플|||
+||2022.02.21|조이스틱|||
+|||오픈 채팅방|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/오픈%20채팅방/ㄴㄹ/openkakao.py)||
+|||124의 나라의 숫자|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/124%20나라의%20숫자/ㄴㄹ/124_num.py)||
+|||타겟 넘버|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/타겟%20넘버/ㄴㄹ/target_num.py)||
+||2022.03.03|거리두기 확인하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/거리두기%20확인하기/ㄴㄹ/check_distance.py)||
+|||괄호 변환|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/괄호%20변환/ㄴㄹ/trans_bracket.py)||
+|||행렬 테두리 회전하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/행렬%20테두리%20회전하기/ㄴㄹ/arr_rotate.py)||
+||2022.03.14|튜플|||
 |||프린터|||
 |||소수 찾기|||
 백준|재귀|팩토리얼|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/팩토리얼/ㄴㄹ/factorial.py)||
