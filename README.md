@@ -84,15 +84,15 @@
 |||빛의 경로 사이클||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4/%E3%85%87%E3%85%8E/light_cycle.js)|
 |||가장 큰 수|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8주/가장%20큰%20수/ㄴㄹ/max_num.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/8%EC%A3%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/%E3%85%87%E3%85%8E/biggest_num.js)|
 ||2022.02.21|조이스틱|||
-|||오픈 채팅방|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/오픈%20채팅방/ㄴㄹ/openkakao.py)||
-|||124의 나라의 숫자|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/124%20나라의%20숫자/ㄴㄹ/124_num.py)||
-|||타겟 넘버|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/타겟%20넘버/ㄴㄹ/target_num.py)||
+|||오픈 채팅방|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/오픈%20채팅방/ㄴㄹ/openkakao.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9%EC%A3%BC/%EC%98%A4%ED%94%88%20%EC%B1%84%ED%8C%85%EB%B0%A9/%E3%85%87%E3%85%8E/new_chatroom.js)|
+|||124의 나라의 숫자|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/124%20나라의%20숫자/ㄴㄹ/124_num.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9%EC%A3%BC/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90/%E3%85%87%E3%85%8E/124_land.js)|
+|||타겟 넘버|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9주/타겟%20넘버/ㄴㄹ/target_num.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/9%EC%A3%BC/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84/%E3%85%87%E3%85%8E/target_num.js)|
 ||2022.03.03|거리두기 확인하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/거리두기%20확인하기/ㄴㄹ/check_distance.py)||
-|||괄호 변환|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/괄호%20변환/ㄴㄹ/trans_bracket.py)||
-|||행렬 테두리 회전하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/행렬%20테두리%20회전하기/ㄴㄹ/arr_rotate.py)||
-||2022.03.14|튜플|||
-|||프린터|||
-|||소수 찾기|||
+|||괄호 변환|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/괄호%20변환/ㄴㄹ/trans_bracket.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10%EC%A3%BC/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98/%E3%85%87%E3%85%8E/change_bracket.js)|
+|||행렬 테두리 회전하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/행렬%20테두리%20회전하기/ㄴㄹ/arr_rotate.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10%EC%A3%BC/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/spin_matrix.js)|
+||2022.03.14|튜플||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%ED%8A%9C%ED%94%8C/%E3%85%87%E3%85%8E/tuple.js)|
+|||프린터||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%ED%94%84%EB%A6%B0%ED%84%B0/%E3%85%87%E3%85%8E/printer.js)|
+|||소수 찾기||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%85%87%E3%85%8E/find_prime.js)|
 ||2022.03.21|게임 맵 최단거리|||
 |||예상 대진표|||
 |||후보키|||
