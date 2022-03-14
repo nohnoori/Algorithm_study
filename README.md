@@ -93,6 +93,9 @@
 ||2022.03.14|튜플|||
 |||프린터|||
 |||소수 찾기|||
+||2022.03.21|게임 맵 최단거리|||
+|||예상 대진표|||
+|||후보키|||
 백준|재귀|팩토리얼|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/팩토리얼/ㄴㄹ/factorial.py)||
 |||피보나치 5|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/피보나치%20수%205/ㄴㄹ/fibo.py)||
 |||별 찍기 -10|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/별%20찍기%20-10/ㄴㄹ/start.py)||
