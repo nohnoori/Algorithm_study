@@ -93,7 +93,7 @@
 ||2022.03.14|튜플|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11주/튜플/ㄴㄹ/tuple.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%ED%8A%9C%ED%94%8C/%E3%85%87%E3%85%8E/tuple.js)|
 |||프린터|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11주/프린터/ㄴㄹ/printer.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%ED%94%84%EB%A6%B0%ED%84%B0/%E3%85%87%E3%85%8E/printer.js)|
 |||소수 찾기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11주/소수%20찾기/ㄴㄹ/primeNum.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%85%87%E3%85%8E/find_prime.js)|
-||2022.03.21|게임 맵 최단거리|||
+||2022.03.21|게임 맵 최단거리|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/12주/게임%20맵%20최단거리/ㄴㄹ/game_min_distance.py)||
 |||예상 대진표|||
 |||후보키|||
 백준|재귀|팩토리얼|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/백준/재귀/팩토리얼/ㄴㄹ/factorial.py)||
