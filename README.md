@@ -91,7 +91,7 @@
 |||괄호 변환|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/괄호%20변환/ㄴㄹ/trans_bracket.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10%EC%A3%BC/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98/%E3%85%87%E3%85%8E/change_bracket.js)|
 |||행렬 테두리 회전하기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10주/행렬%20테두리%20회전하기/ㄴㄹ/arr_rotate.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/10%EC%A3%BC/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/%E3%85%87%E3%85%8E/spin_matrix.js)|
 ||2022.03.14|튜플|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11주/튜플/ㄴㄹ/tuple.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%ED%8A%9C%ED%94%8C/%E3%85%87%E3%85%8E/tuple.js)|
-|||프린터||[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%ED%94%84%EB%A6%B0%ED%84%B0/%E3%85%87%E3%85%8E/printer.js)|
+|||프린터|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11주/프린터/ㄴㄹ/printer.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%ED%94%84%EB%A6%B0%ED%84%B0/%E3%85%87%E3%85%8E/printer.js)|
 |||소수 찾기|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11주/소수%20찾기/ㄴㄹ/primeNum.py)|[✔](https://github.com/nohnoori/Algorithm_study/blob/main/11%EC%A3%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/%E3%85%87%E3%85%8E/find_prime.js)|
 ||2022.03.21|게임 맵 최단거리|||
 |||예상 대진표|||
